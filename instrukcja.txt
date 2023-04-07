@@ -1,0 +1,3 @@
+Jak uruchomić grę?
+	1. Uruchomić plik server.py
+	2. Uruchomić plik checkers.py - każde uruchomienie nowy gracz
